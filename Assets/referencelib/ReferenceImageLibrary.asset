@@ -21,12 +21,12 @@ MonoBehaviour:
       m_GuidLow: 4709357924290178173
       m_GuidHigh: 8279100708401383332
     m_SerializedTextureGuid:
-      m_GuidLow: 11953790743341976584
-      m_GuidHigh: 282227892211099656
-    m_Size: {x: 0.05, y: 0.05}
+      m_GuidLow: 11377422158951863171
+      m_GuidHigh: 11365782416992634346
+    m_Size: {x: 0.05, y: 0.04490446}
     m_SpecifySize: 1
     m_Name: qr1
-    m_Texture: {fileID: 2800000, guid: e0404c086558a5e40828f3ccc5acea03, type: 3}
+    m_Texture: {fileID: 2800000, guid: 63fbd383b92c9de4ea053ac7e35ebb9d, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5513369329101385996
       m_GuidHigh: 5908388721144863368
